@@ -1,5 +1,17 @@
 def resta (a,b):
     rest = a-b
+    return rest
+"""
+devuelve el resultado de resta
+Args:
+a(float): primer valor a restar
+b(float):segundo valor a restar
+
+Return
+rest(float):resultado de la suma
+"""
+def resta (a,b):
+    rest = a-b
     return rest 
 
 def main():
