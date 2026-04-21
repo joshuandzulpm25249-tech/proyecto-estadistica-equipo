@@ -8,7 +8,7 @@ a(float): primer valor a restar
 b(float):segundo valor a restar
 
 Return
-rest(float):resultado de la suma
+rest(float):resultado de la resta
 """
 def resta (a,b):
     rest = a-b
