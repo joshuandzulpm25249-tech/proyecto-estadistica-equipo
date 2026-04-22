@@ -4,11 +4,11 @@ def suma (a,b):
 """
 devuelve el resultado de suma
 Args:
-a(int): primer valor a sumar
-b(int): segundo valor a sumar
+a(float): primer valor a sumar
+b(float): segundo valor a sumar
 
 Return:
-rest(int):resultado de la suma.
+rest(float):resultado de la suma.
 """
 def suma (a,b):
     rest=a+b
